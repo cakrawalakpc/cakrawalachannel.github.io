@@ -1,0 +1,67 @@
+<html>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <video id="video"controls autoplay></video>
+    <script>
+    if(Hls.isSupported())
+	
+	
+	
+	
+    {
+        var video = document.getElementById('video');
+        var hls = new Hls();
+        hls.loadSource('https://video.detik.com/trans7/smil:trans7.smil/chunklist_w351413830_b280000_sleng.m3u8');
+        hls.attachMedia(video);
+         video.addEventListener('canplaythrough', function () {
+            var promise = video.play();
+            if (promise !== undefined) {
+                promise.catch(function(error) {
+                    console.error('Auto-play was prevented');
+                    console.error('We Show a UI element to let the user manually start playback');
+                    buttonPlay.style.display = 'block';
+                }).then(function() {
+                    console.info('Auto-play started');
+                    buttonPlay.style.display = 'none';
+                });
+            }
+}); //  Fires when the browser can play through the audio/video without stopping for buffering
+
+
+video.autoplay = 'autoplay loop';
+video.playsinline = 'true';
+			
+     
+    }
+	
+	
+	
+    else if (video.canPlayType('application/vnd.apple.mpegurl'))
+    {
+        video .src = 'http://id1.indostreamingtv.com/live/sctv/index.m3u8';
+      video.addEventListener('canplaythrough', function () {
+            var promise = video.play();
+            if (promise !== undefined) {
+                promise.catch(function(error) {
+                    console.error('Auto-play was prevented');
+                    console.error('We Show a UI element to let the user manually start playback');
+                    buttonPlay.style.display = 'block';
+                }).then(function() {
+                    console.info('Auto-play started');
+                    buttonPlay.style.display = 'none';
+                });
+            }
+}); //  Fires when the browser can play through the audio/video without stopping for buffering
+
+video.muted = 'true';
+video.autoplay = 'autoplay';
+video.playsinline = 'true';
+			
+     
+    }
+	
+	
+    </script>
+  </body>
+</html>
+
