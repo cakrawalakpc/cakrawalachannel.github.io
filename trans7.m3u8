@@ -1,4 +1,16 @@
 #EXTM3U
 
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w351413830_b280000_sleng.m3u8
-#EXT-X-ENDLIST
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=311111
+
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w351413830_b280000_sleng.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=484444
+
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w351413830_b280000_sleng.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=737777
+
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w351413830_b280000_sleng.m3u8
