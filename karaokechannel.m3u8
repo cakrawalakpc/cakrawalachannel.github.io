@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
