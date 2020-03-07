@@ -1,11 +1,6 @@
   
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=64000
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-mp4a_64000=2.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_300000=4.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_600000=3.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=1.m3u8
+
 
