@@ -1,6 +1,4 @@
 
 #EXTM3U
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-
-http://210.210.155.35/session/eea96716-0134-11ea-a62b-b82a72d63267/qwr9ew/s/s04/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583572927~acl=/hls-b/ingest_205_*/*~hmac=2371f55d244048d70c3cb019f39ebf0251247720583c8301f284050dd4c8c2e2/hls-b/ingest_205_240p/index.m3u8
