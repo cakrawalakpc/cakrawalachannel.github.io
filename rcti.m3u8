@@ -1,5 +1,6 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583574143~acl=/hls-b/ingest_665_*/*~hmac=ce90b10bf290b56e4673b0b22164e2567b5a53b9be0fd60a02ce187dcc4581e8/hls-b/ingest_665_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=400000
+https://etslive-2-vidio-com.akamaized.net/exp=1583574143~acl=/hls-b/ingest_665_*/*~hmac=ce90b10bf290b56e4673b0b22164e2567b5a53b9be0fd60a02ce187dcc4581e8/hls-b/ingest_665_360p/index.m3u8
