@@ -1,5 +1,6 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583574795~acl=/hls-p/ingest_6795_*/*~hmac=d83b041b75dcbfa704e2db57fb34cab6e534136df094bf814a5cc229fd784419/hls-p/ingest_6795_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=400000
+https://etslive-2-vidio-com.akamaized.net/exp=1583574795~acl=/hls-p/ingest_6795_*/*~hmac=d83b041b75dcbfa704e2db57fb34cab6e534136df094bf814a5cc229fd784419/hls-p/ingest_6795_360p/index.m3u8
