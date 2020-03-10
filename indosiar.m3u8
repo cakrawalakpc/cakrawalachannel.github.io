@@ -1,10 +1,4 @@
 
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=100000
-https://etslive-2-vidio-com.akamaized.net/exp=1583572927~acl=/hls-b/ingest_205_*/*~hmac=2371f55d244048d70c3cb019f39ebf0251247720583c8301f284050dd4c8c2e2/hls-b/ingest_205_240p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-https://etslive-2-vidio-com.akamaized.net/exp=1583572927~acl=/hls-b/ingest_205_*/*~hmac=2371f55d244048d70c3cb019f39ebf0251247720583c8301f284050dd4c8c2e2/hls-b/ingest_205_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://etslive-2-vidio-com.akamaized.net/exp=1583572927~acl=/hls-b/ingest_205_*/*~hmac=2371f55d244048d70c3cb019f39ebf0251247720583c8301f284050dd4c8c2e2/hls-b/ingest_205_480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
-https://etslive-2-vidio-com.akamaized.net/exp=1583572927~acl=/hls-b/ingest_205_*/*~hmac=2371f55d244048d70c3cb019f39ebf0251247720583c8301f284050dd4c8c2e2/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583847944~acl=/hls-b/ingest_205_*/*~hmac=b05fae02f32319bb1ed60c6b674575911039d3ceecfb4f2a23643bc32eedb3c1/hls-b/ingest_205_240p/index.m3u8
