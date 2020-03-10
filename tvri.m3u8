@@ -1,6 +1,4 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-https://etslive-2-vidio-com.akamaized.net/exp=1583574603~acl=/hls-p/ingest_6441_*/*~hmac=8ffaa1b423573bf65acc358c9cb19daaf60cab94642774de62addb43105e0d98/hls-p/ingest_6441_240p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-https://etslive-2-vidio-com.akamaized.net/exp=1583574603~acl=/hls-p/ingest_6441_*/*~hmac=8ffaa1b423573bf65acc358c9cb19daaf60cab94642774de62addb43105e0d98/hls-p/ingest_6441_360p/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
