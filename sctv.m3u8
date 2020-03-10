@@ -1,9 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=100000
-https://etslive-2-vidio-com.akamaized.net/exp=1583573255~acl=/hls-b/ingest_204_*/*~hmac=47350ebf8c71a867223acdcd7b50b083341a6621a9a68a316fa85038d5223d37/hls-b/ingest_204_240p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-https://etslive-2-vidio-com.akamaized.net/exp=1583573255~acl=/hls-b/ingest_204_*/*~hmac=47350ebf8c71a867223acdcd7b50b083341a6621a9a68a316fa85038d5223d37/hls-b/ingest_204_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://etslive-2-vidio-com.akamaized.net/exp=1583573255~acl=/hls-b/ingest_204_*/*~hmac=47350ebf8c71a867223acdcd7b50b083341a6621a9a68a316fa85038d5223d37/hls-b/ingest_204_480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
-https://etslive-2-vidio-com.akamaized.net/exp=1583573255~acl=/hls-b/ingest_204_*/*~hmac=47350ebf8c71a867223acdcd7b50b083341a6621a9a68a316fa85038d5223d37/hls-b/ingest_204_720p/index.m3u8
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
