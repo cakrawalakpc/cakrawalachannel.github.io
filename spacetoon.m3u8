@@ -1,1 +1,4 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
