@@ -1,4 +1,3 @@
 #EXTM3U
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
