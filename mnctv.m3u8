@@ -1,1 +1,4 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
