@@ -1,4 +1,4 @@
 
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=100000
-https://etslive-2-vidio-com.akamaized.net/exp=1583847944~acl=/hls-b/ingest_205_*/*~hmac=b05fae02f32319bb1ed60c6b674575911039d3ceecfb4f2a23643bc32eedb3c1/hls-b/ingest_205_240p/index.m3u8
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
