@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://etslive-2-vidio-com.akamaized.net/exp=1584100436~acl=/hls-p/ingest_5409_*/*~hmac=1a6c3ad24216e8fee49982f5c01d52ac010419636f15100a9267cb628b6bb33c/hls-p/ingest_5409_480p/index.m3u8
+https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u82ac010419636f15100a9267cb628b6bb33c/hls-p/ingest_5409_480p/index.m3u8
