@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584523091~acl=/hls-p/ingest_5409_*/*~hmac=7e10ce4c85d9c69a8702096fe72e470bc9788ea37e37241c55c677dfc95930c4/hls-p/ingest_5409_240p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584523091~acl=/hls-p/ingest_5409_*/*~hmac=7e10ce4c85d9c69a8702096fe72e470bc9788ea37e37241c55c677dfc95930c4/hls-p/ingest_5409_360p/index.m3u8
