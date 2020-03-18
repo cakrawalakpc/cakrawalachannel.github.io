@@ -1,4 +1,18 @@
 #EXTM3U
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-b/ingest_870_*/*~hmac=62836a9e76386cae968a3449fd5054f73440b1267cfe7fb2d1111e41b96469eb/hls-b/ingest_870_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-b/ingest_870_*/*~hmac=62836a9e76386cae968a3449fd5054f73440b1267cfe7fb2d1111e41b96469eb/hls-b/ingest_870_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-b/ingest_870_*/*~hmac=62836a9e76386cae968a3449fd5054f73440b1267cfe7fb2d1111e41b96469eb/hls-b/ingest_870_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-b/ingest_870_*/*~hmac=62836a9e76386cae968a3449fd5054f73440b1267cfe7fb2d1111e41b96469eb/hls-b/ingest_870_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-p/ingest_870_*/*~hmac=81c9330c796abe7fc5c8d772852d29c5c4a45c24773cdf265c46c1cabd574735/hls-p/ingest_870_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-p/ingest_870_*/*~hmac=81c9330c796abe7fc5c8d772852d29c5c4a45c24773cdf265c46c1cabd574735/hls-p/ingest_870_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-p/ingest_870_*/*~hmac=81c9330c796abe7fc5c8d772852d29c5c4a45c24773cdf265c46c1cabd574735/hls-p/ingest_870_480p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=200000
+https://etslive-2-vidio-com.akamaized.net/exp=1584523502~acl=/hls-p/ingest_870_*/*~hmac=81c9330c796abe7fc5c8d772852d29c5c4a45c24773cdf265c46c1cabd574735/hls-p/ingest_870_720p/index.m3u8
