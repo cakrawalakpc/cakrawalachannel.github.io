@@ -2,8 +2,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
 https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_300000=5.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
-https://livetv01.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_600000=4.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-https://livetv01.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=3.m3u8
+https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
