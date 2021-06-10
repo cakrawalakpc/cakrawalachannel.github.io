@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000
-https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_600000=4.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1623302721~acl=/hls-p/ingest_5409_*/*~hmac=f34d68aaae61becce914dae98d65ac61d2962bbcfd8d89f0f1de4ae77a61efcb/hls-p/ingest_5409_360p/index.m3u8#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
+
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_600000=4.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_600000=4.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_600000=4.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1623302721~acl=/hls-p/ingest_5409_*/*~hmac=f34d68aaae61becce914dae98d65ac61d2962bbcfd8d89f0f1de4ae77a61efcb/hls-p/ingest_5409_360p/index.m3u8#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
